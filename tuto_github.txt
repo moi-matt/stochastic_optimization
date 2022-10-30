@@ -1,0 +1,14 @@
+TUTO GITHUB : Les dollars ne sont pas a ecrire
+
+## ajouter (ou mettre a jour) un fichier au depot (/!\ ca ne suffit pas pour qu'il soit sur le depot)
+## il faut se placer dans le bon dossier
+$ git add fichier.Rmd
+
+## preparer a l'envoi des fichiers ajoutes
+$ git commit -m "Message pour se souvenir de ce qu'on a fait"
+
+## envoyer sur le depot 
+$ git push
+
+##recuperer le contenu du repertoire
+$ git pull
