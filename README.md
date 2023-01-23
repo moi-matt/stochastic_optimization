@@ -8,7 +8,10 @@ pretraitement.ipynb : pré-traitement des graphs
     -> pre_traitement
 
 determinist_MIP.ipynb : MIP utilisant la probabilité comme donnée déterministe
-    -> solve_MIP
+    -> edges_MIP
+    -> proba_cycle
+
+deterministic_MIP
 
 plot.ipynb : affichage des graphs
     -> plot_optimized_16edges
