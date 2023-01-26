@@ -1,0 +1,72 @@
+=================================
+# Description de l'instance kep32
+=================================
+Nombre de sommet : 32
+Nombre de cycles de longueur inférieure à3 : 51
+Proportion of UNOS high sensitized patients in instance :15.625% 
+Proportion of APD high sensitized patients in instance :15.625% 
+Number of UNOS high sensitized patients in cycles of instance :13% 
+Number of APD high sensitized patients in cycles of instance :13% 
+=====================================
+Temps CPU pris pour le prétraitement : 0.016
+ 
+==================================
+ Results with distribution Constant
+==================================
+ 
+ Cycle MIP taking into acount cycles length :
+ ==================================
+Numbers of possible transplants found :12
+Number of high UNOS senitized patients in solution 2
+Number of high apd senitized patients in solution 2
+===========================================
+ Cycle MIP not taking into acount cycles length :
+===========================================
+Numbers of posible transplants found :12
+Number of high UNOS senitized patients in solution 2
+Number of high apd senitized patients in solution 2
+==================================
+ Results with distribution Binomial
+==================================
+ 
+ Cycle MIP taking into acount cycles length :
+ ==================================
+Numbers of possible transplants found :10
+Number of high UNOS senitized patients in solution 1
+Number of high apd senitized patients in solution 1
+===========================================
+ Cycle MIP not taking into acount cycles length :
+===========================================
+Numbers of posible transplants found :10
+Number of high UNOS senitized patients in solution 1
+Number of high apd senitized patients in solution 1
+==================================
+ Results with distribution BinomialUNOS
+==================================
+ 
+ Cycle MIP taking into acount cycles length :
+ ==================================
+Numbers of possible transplants found :12
+Number of high UNOS senitized patients in solution 1
+Number of high apd senitized patients in solution 1
+===========================================
+ Cycle MIP not taking into acount cycles length :
+===========================================
+Numbers of posible transplants found :12
+Number of high UNOS senitized patients in solution 2
+Number of high apd senitized patients in solution 2
+==================================
+ Results with distribution BinomialAPD
+==================================
+ 
+ Cycle MIP taking into acount cycles length :
+ ==================================
+Numbers of possible transplants found :13
+Number of high UNOS senitized patients in solution 2
+Number of high apd senitized patients in solution 2
+===========================================
+ Cycle MIP not taking into acount cycles length :
+===========================================
+Numbers of posible transplants found :12
+Number of high UNOS senitized patients in solution 2
+Number of high apd senitized patients in solution 2
