@@ -1,3 +1,0 @@
-Questions :
-
-- Quand il n'y a pas de solution au problème, est-ce que c'est bien le nombre d'itérations maximal qui arrête l'algorithme Lshaped ?
