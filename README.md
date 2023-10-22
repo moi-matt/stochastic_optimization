@@ -1,11 +1,13 @@
-# Projet Optimisation sous incertitude
+# Projet Optimisation sous incertitude : 
 
-Sibyline Moukarzel - Matthieu Roux
+Sibyline Moukarzel - Matthieu Roux 
+
+Cours de Mr Jérémy Omer, Enseignent chercheur à l'INSA Rennes
 
 Ce dossier contient 3 fichiers de code :
 
-- main.ipynb : détail le cheminiment et les différents problèmes
-- test_instance.ipynb : test de différentes instance 
-- dataparser.ipynb : pour lire les instances de tests
+- src/main.ipynb : détail le cheminiment et les différents problèmes
+- src/test_instance.ipynb : test de différentes instance 
+- src/dataparser.ipynb : pour lire les instances de tests
   
 Il contient également les fichiers des instances de tests (avec 16, 32, 64 et 128 sommets) dans le dossier data
