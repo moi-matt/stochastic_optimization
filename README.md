@@ -1,4 +1,4 @@
-# Projet Optimisation sous incertitude : 
+# Projet Optimisation sous incertitude : Transfert d'organe sous incertitude sur la compatibilité
 
 Sibyline Moukarzel - Matthieu Roux 
 
